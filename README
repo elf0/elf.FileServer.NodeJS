@@ -1,0 +1,5 @@
+Server:
+  node server.js port [root]
+Client:
+  node client.js ip port
+  command: ls, cd, get
